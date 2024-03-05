@@ -5,7 +5,7 @@ const Contact = ()=>{
   const data = {
     mob:'+91 7904080783',
     email:'srvn1251@gmail.com',
-  }
+  };
   return(
     <section id='contact' className='flex flex-col bg-orange-400 px-5 py-20'>
       <div className='flex flex-col items-center text-white px-5'>
