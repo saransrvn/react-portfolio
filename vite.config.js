@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      'react-icons': '@react-icons/all-files',
+      'react-icons':'@react-icons/all-files',
       '@heroicons/react':'@heroicons/react/24',
     }
   },
