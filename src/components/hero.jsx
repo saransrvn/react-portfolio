@@ -1,5 +1,5 @@
 import HeroImg from '../assets/hero.png';
-import { AiOutlineLinkedin, AiOutlineGithub} from "react-icons/ai";
+import { AiOutlineLinkedin, AiOutlineGithub} from 'react-icons/ai';
 const Hero = ()=>{
   return(
     <section className='flex flex-col md:flex-row px-5 py-32 bg-gradient-to-r from-yellow-400 to-orange-500 justify-center'>
