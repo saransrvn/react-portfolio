@@ -8,8 +8,8 @@ const Hero = ()=>{
       <p className='font-bold py-3 md:w-[500px] text-gray-700'>An Aspiring Front-end developer keen to learn and grow in this field.
        Take a look at my skills and projects.</p>
       <div className='flex py-10'>
-        <a href='https://github.com/saransrvn' className='pr-20 hover:text-white'><AiOutlineLinkedin size={35}/></a>
-        <a href='https://github.com/saransrvn' className='pr-10 hover:text-white'><AiOutlineGithub size={35}/></a>
+        <a href='https://github.com/saransrvn' target='blank' className='pr-20 hover:text-white'><AiOutlineLinkedin size={35}/></a>
+        <a href='https://github.com/saransrvn' target='blank' className='pr-10 hover:text-white'><AiOutlineGithub size={35}/></a>
       </div>
       </div>
       
