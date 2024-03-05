@@ -6,12 +6,13 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      'react-icons': '@react-icons/all-files'
+      'react-icons': '@react-icons/all-files',
+      '@heroicons/react':'@heroicons/react/24',
     }
   },
   build:{
     rollupOptions: {
-      external: ['react-icons']
+      external: ['react-icons', '@heroicons/react']
     }
   }
 });
