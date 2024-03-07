@@ -1,7 +1,7 @@
 
 import websiteImg1 from '../assets/msp.jpg';
 import websiteImg2 from '../assets/rps.png';
-import websiteImg3 from '../assets/website-blog.jpg';
+import websiteImg3 from '../assets/calc img.jpg';
 
 const Project = ()=>{
 
@@ -20,9 +20,9 @@ const projects = [
   },
   {
     image:websiteImg3,
-    name:'Blog website',
-    descrip:'Basic Blog website. Build with Next JS and Mongoose',
-    link:'https://github.com/saransrvn',
+    name:'simple calculator',
+    descrip:'Simple Calculator.Build with JavaScript',
+    link:'https://simplecalculatortool.netlify.app/',
   }
 ];
 
