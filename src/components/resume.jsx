@@ -11,7 +11,7 @@ const Resume = ()=>{
       <div className='flex flex-col justify-center text-white px-5'>
         <h1 className='text-4xl border-b-2 mb-5 w-[140px] font-bold border-primary ml-3'>Resume</h1>
         <div>
-        <p className='pb-5 ml-3'>You can view my resume here <button className='download-button'><a href='#'>Download</a></button> </p>
+        <p className='pb-5 ml-3'>You can view my resume here <button className='download-button'><a href='https://drive.google.com/file/d/1a4gmMks4Z2hxMxfy61XTCEzdvMyWqFqv/view?usp=drive_link' target='blank'>Download</a></button> </p>
         </div>
         </div>
        

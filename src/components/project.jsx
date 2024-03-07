@@ -30,7 +30,7 @@ return(
   <section id='project' className="bg-primary text-white pb-20 pt-10">
     <div className="flex flex-col">
       <h1 className='text-4xl border-b-2 m-5 w-[140px] font-bold border-secondary'>Projects</h1>
-      <p className='mb-10 px-5'>These are some of my projects. I have built these with HTML, vanilla CSS and JavaScript</p>
+      <p className='mb-10 px-5'>These are all some of my projects. I have built these with HTML, vanilla CSS, and JavaScript.</p>
     </div>
 
     <div className='flex flex-col md:flex-row gap-10 justify-between'>

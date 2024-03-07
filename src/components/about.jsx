@@ -1,4 +1,4 @@
-import AboutImg from '../assets/about.png';
+import AboutImg from '../assets/skill img.webp';
 const About = ()=>{
  
   const data = {
@@ -7,8 +7,8 @@ const About = ()=>{
   };
 
   return(
-    <section id='about' className='flex flex-col md:flex-row bg-purple-400 py-10'>
-    <div className='md:w-1/2 pb-5'>
+    <section id='about' className='flex justify-between flex-col md:flex-row bg-purple-400 py-10'>
+    <div className='md:w-1/3 pb-5 ml-5'>
       <img src={AboutImg} alt="aboutImg" />
       </div>
 
@@ -24,8 +24,6 @@ const About = ()=>{
         ))}
 
         </div>
-
-       
       </div>
     
     </section>
